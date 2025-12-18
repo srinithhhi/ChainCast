@@ -4,3 +4,10 @@ pandas
 scikit-learn
 joblib
 matplotlib
+plotly
+seaborn
+requests
+flask
+flask-cors
+tensorflow
+keras   
