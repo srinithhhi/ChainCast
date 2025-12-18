@@ -9,5 +9,3 @@ seaborn
 requests
 flask
 flask-cors
-tensorflow
-keras   
