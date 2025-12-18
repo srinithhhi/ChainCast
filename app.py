@@ -1,11 +1,3 @@
-import sklearn
-import streamlit as st
-
-st.write("scikit-learn version:", sklearn.__version__)
-
-
-
-
 import streamlit as st
 import pandas as pd
 import glob
